@@ -1,0 +1,28 @@
+.nav{
+    display:flex;
+    justify-content: space-around;
+    border:2px;
+    background-color: rgb(165, 202, 234);
+}
+.logo-img{
+    width:100px;
+    background:none;
+}
+.menu-container{
+    display:flex;
+    padding:20px;
+    gap:20px;
+    
+}
+li{
+    list-style: none;
+}
+li:hover{
+    cursor:pointer;
+}
+li.ho{
+    font-size: 20px;
+    font-style: oblique;
+    
+}
+
